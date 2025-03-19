@@ -1,11 +1,12 @@
 {
   "name": "lumedb",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Advanced JSON database with nested object support, backup system and multiple adapters",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
+  "homepage": "https://github.com/wizardsarehere/LumeDB",
   "keywords": ["database", "json", "backup", "safe", "persistent", "nested"],
   "author": "WizardHere",
   "license": "MIT",
