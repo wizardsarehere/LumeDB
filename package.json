@@ -1,0 +1,16 @@
+{
+  "name": "lumedb",
+  "version": "1.0.0",
+  "description": "Advanced JSON database with nested object support, backup system and multiple adapters",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["database", "json", "backup", "safe", "persistent", "nested"],
+  "author": "WizardHere",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21"
+  }
+}
